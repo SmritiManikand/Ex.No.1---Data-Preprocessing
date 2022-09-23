@@ -67,8 +67,12 @@ X_train.shape
 
 ```
 
-##OUTPUT:
-/ Show the result/
+## OUTPUT:
+### Dataset
+![s1](https://user-images.githubusercontent.com/113674204/191887944-59fbffdc-6651-42fb-92c3-00c6b2e0ed94.png)
+
+
+
 
 ##RESULT
 /Type your result here/
