@@ -31,7 +31,7 @@ Encoding categorical data
 Normalizing the data
 Splitting the data into test and train
 
-##PROGRAM:
+## PROGRAM:
 ```python
 import pandas as pd
 import numpy as np
@@ -70,9 +70,36 @@ X_train.shape
 ## OUTPUT:
 ### Dataset
 ![s1](https://user-images.githubusercontent.com/113674204/191887944-59fbffdc-6651-42fb-92c3-00c6b2e0ed94.png)
+### Checking for Null Values
+![s2](https://user-images.githubusercontent.com/113674204/191889421-130b4434-abbf-4bfe-ba72-76ee78b0e0ec.png)
+### Checking for duplicate values
+![s3](https://user-images.githubusercontent.com/113674204/191889603-321c821d-c712-4db9-a618-df744cfd8c93.png)
+### Describing Data
+![s4](https://user-images.githubusercontent.com/113674204/191889726-3416435f-f4a3-4b9b-beeb-0a73b110108d.png)
+### Checking for outliers in Exited Column
+![s5](https://user-images.githubusercontent.com/113674204/191889863-91e37e9f-506a-4fc2-ba22-8f79556bdf2e.png)
+### Normalized Dataset
+![s6](https://user-images.githubusercontent.com/113674204/191890023-8173556f-78f6-4ab3-b49d-f657019637f9.png)
+### Describing Normalized Data
+![s7](https://user-images.githubusercontent.com/113674204/191890114-4133f44f-aa4d-4a4a-9bf4-2b38780a7cd0.png)
+### X - Values
+![s8](https://user-images.githubusercontent.com/113674204/191890233-a820a7e2-950b-417c-9321-876cac1ad005.png)
+### Y - Value
+![s9](https://user-images.githubusercontent.com/113674204/191890310-dcddf70f-8a71-442d-8fcc-bb1713f87763.png)
+### X_train values
+![s10](https://user-images.githubusercontent.com/113674204/191890378-27bb1453-8fe3-42ba-9784-85a7d68eac78.png)
+### X_train Size
+![s11](https://user-images.githubusercontent.com/113674204/191890456-1f4c4f42-60b0-45dc-b706-804316a05680.png)
+### X_test values
+![s12](https://user-images.githubusercontent.com/113674204/191890578-670b2bfd-73cb-4845-9162-9a18802bb52e.png)
+### X_test Size
+![s13](https://user-images.githubusercontent.com/113674204/191890651-c9c264ae-eb6c-4ecf-a92c-cfcd16991614.png)
+### X_train shape
+![s14](https://user-images.githubusercontent.com/113674204/191890731-75551863-4e25-4f0d-ad7b-54b922f7c9c7.png)
 
 
 
 
-##RESULT
-/Type your result here/
+
+## RESULT
+Data preprocessing is performed in a data set downloaded from Kaggle.
