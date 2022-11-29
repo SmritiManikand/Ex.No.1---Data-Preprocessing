@@ -101,5 +101,5 @@ X_train.shape
 
 
 
-## RESULT
+## RESULT:
 Data preprocessing is performed in a data set downloaded from Kaggle.
